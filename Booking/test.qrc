@@ -1,0 +1,41 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>gem.png</file>
+    <file>gem2.png</file>
+    <file>gym.png</file>
+    <file>gym2.png</file>
+    <file>party.png</file>
+    <file>SPA.png</file>
+    <file>SPA2.png</file>
+    <file>WELCOME.png</file>
+    <file>WELCOME2.png</file>
+    <file>WELCOME3.png</file>
+    <file>LKIHNL.png</file>
+    <file>SERV.png</file>
+    <file>SEEE.png</file>
+    <file>WELCOME5.png</file>
+    <file>taxi.png</file>
+    <file>taxi2.png</file>
+    <file>taxi3.png</file>
+    <file>card.png</file>
+    <file>id.png</file>
+    <file>credit card.png</file>
+    <file>PAYPAL.png</file>
+    <file>SECURITY CODE.png</file>
+    <file>caar.png</file>
+    <file>food.png</file>
+    <file>room.png</file>
+    <file>calender.png</file>
+    <file>adult children2.png</file>
+    <file>add.png</file>
+    <file>address.png</file>
+    <file>id.png</file>
+    <file>username.png</file>
+    <file>pass.png</file>
+    <file>mobile.png</file>
+    <file>email.png</file>
+    <file>gender.png</file>
+    <file>booking.png</file>
+    <file>IMG.png</file>
+  </qresource>
+</RCC>
